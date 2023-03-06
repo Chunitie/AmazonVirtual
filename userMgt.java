@@ -5,3 +5,6 @@ Ayo
 Obi 
 Manager
 Datti 
+Simon
+Dominion
+
