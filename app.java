@@ -1,1 +1,2 @@
-This is great 
+This is great
+Developing Java apps 
