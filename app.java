@@ -7,3 +7,4 @@ Sample password authentication
 I am adding this so I can do a PR 
 great
 this application is excellent
+This app is excellent for all users
